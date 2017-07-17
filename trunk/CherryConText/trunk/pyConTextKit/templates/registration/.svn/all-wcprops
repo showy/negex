@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/registration
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/registration/login.html
+END
+logout.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/registration/logout.html
+END

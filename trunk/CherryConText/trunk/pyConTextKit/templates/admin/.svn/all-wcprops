@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/admin
+END
+base_site.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/admin/base_site.html
+END
+change_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/templates/admin/change_form.html
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/169/trunk/CherryConText/trunk/pyConTextKit
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/admin.py
+END
+csvparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/157/trunk/CherryConText/trunk/pyConTextKit/csvparser.py
+END
+runConText.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/CherryConText/trunk/pyConTextKit/runConText.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/169/trunk/CherryConText/trunk/pyConTextKit/views.py
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/157/trunk/CherryConText/trunk/pyConTextKit/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/157/trunk/CherryConText/trunk/pyConTextKit/settings.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/168/trunk/CherryConText/trunk/pyConTextKit/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/168/trunk/CherryConText/trunk/pyConTextKit/urls.py
+END
+dataParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/168/trunk/CherryConText/trunk/pyConTextKit/dataParser.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/CherryConText/trunk/pyConTextKit/forms.py
+END

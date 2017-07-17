@@ -1,0 +1,83 @@
+10
+
+dir
+172
+http://negex.googlecode.com/svn/trunk
+http://negex.googlecode.com/svn
+
+
+
+2014-03-28T17:16:11.208381Z
+172
+chapmanbe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+840a737e-d840-11dd-93da-dbb4cac96d7c
+
+pyConTextNLPTestApps
+dir
+
+rsAnnotations-1-120-random.txt
+file
+
+
+
+
+2016-02-13T23:31:08.985096Z
+0652ff9a067af00b540f223653c56b85
+2010-03-08T20:12:24.208213Z
+56
+michaelambroseconway
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+366626
+
+GeneralNegEx.Java.v.1.2.05092009
+dir
+
+genConText
+dir
+
+CherryConText
+dir
+
+negex.python
+dir
+
+pyConTextNLP
+dir
+
+TwistedConText
+dir
+

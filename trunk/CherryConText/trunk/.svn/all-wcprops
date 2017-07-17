@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/169/trunk/CherryConText/trunk
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/156/trunk/CherryConText/trunk/__init__.py
+END
+installCherryConText-win2.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/158/trunk/CherryConText/trunk/installCherryConText-win2.py
+END
+installCherryConText-posix2.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/158/trunk/CherryConText/trunk/installCherryConText-posix2.py
+END
+createCherryConTextVE-win.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/158/trunk/CherryConText/trunk/createCherryConTextVE-win.py
+END
+httplogger.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/155/trunk/CherryConText/trunk/httplogger.py
+END
+createCherryConTextVE.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/156/trunk/CherryConText/trunk/createCherryConTextVE.py
+END
+createCherryConTextVE-posix.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/158/trunk/CherryConText/trunk/createCherryConTextVE-posix.py
+END
+djangoplugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/155/trunk/CherryConText/trunk/djangoplugin.py
+END
+installCherryConText-win.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/158/trunk/CherryConText/trunk/installCherryConText-win.py
+END
+runme.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/158/trunk/CherryConText/trunk/runme.py
+END
+installCherryConText-posix.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/158/trunk/CherryConText/trunk/installCherryConText-posix.py
+END
+installCherryConText.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/158/trunk/CherryConText/trunk/installCherryConText.py
+END
+cherryConText-bootstrap2-win.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/158/trunk/CherryConText/trunk/cherryConText-bootstrap2-win.py
+END
+cherryConText-bootstrap2.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/156/trunk/CherryConText/trunk/cherryConText-bootstrap2.py
+END
+cherryConText-bootstrap2-posix.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/158/trunk/CherryConText/trunk/cherryConText-bootstrap2-posix.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/161/trunk/pyConTextNLPTestApps/trunk
+END
+test_itemData.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/146/trunk/pyConTextNLPTestApps/trunk/test_itemData.py
+END
+markFindings.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/140/trunk/pyConTextNLPTestApps/trunk/markFindings.py
+END
+markFindings2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/161/trunk/pyConTextNLPTestApps/trunk/markFindings2.py
+END
+classifyDocuments.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/161/trunk/pyConTextNLPTestApps/trunk/classifyDocuments.py
+END
